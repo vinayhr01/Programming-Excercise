@@ -40,7 +40,8 @@
                                Therefore, 82 is a happy number.
                     
                     4)Prime factors of a number.
-                    5)Pronic number.(Meaning:- A number is said to be pronic if it is a product of 2 consecutive numbers.)
+                    5)Pronic number.(Meaning:- A number is said to be pronic if it is a product of 2 consecutive 
+                                               numbers.)
                         Ex:- 1) 6 = 2 X 3
                              2) 20 = 4 X 5
      
