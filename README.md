@@ -1,5 +1,7 @@
 # Programming-Excercise
 
+# ALL PROGRAMS ARE WRITTEN IN C LANGUAGE.
+
 # DAY-1
       Programs list:- 
                     1) Check whether a given number is prime or not.
