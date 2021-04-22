@@ -34,7 +34,7 @@
                             2) Number=82
                                     8 ^2 + 2 ^2 = 68
                                     6 ^2 + 8 ^2 = 100
-                                    1 ^2 + 0 ^2+ 0 ^2 = 1
+                                    1 ^2 + 0 ^2 + 0 ^2 = 1
                                Therefore, 82 is a happy number.
                     
                     4)Prime factors of a number.
