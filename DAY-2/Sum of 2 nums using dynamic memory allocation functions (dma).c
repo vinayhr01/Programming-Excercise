@@ -14,5 +14,4 @@ void main()
     *sum=*a+*b;
     
     printf("sum=%d\n",*sum);
-
 }
