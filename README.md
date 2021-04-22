@@ -22,7 +22,17 @@
      Programs list:-
                     1)Conversion of a given number from decimal to binary.
                     2)Factors of a number
-                    3)Happy number.
+                    3)Happy number.(Meaning:- A number is said to be happy if it yields 1 when replaced by the sum of squares of its digits repeatedly.
+                                             If this process results in an endless cycle of numbers containing 4, then the number will be an unhappy number.) 
+                        Ex:-
+                              Number=32
+                                    3 ^2+ 2 ^2=13
+                                    1 ^2+ 3 ^2=10
+                                    1 ^2+ 0 ^2=1
+                              Therefore, 32 is a happy number
+                    
                     4)Prime factors of a number.
-                    5)Pronic number.
+                    5)Pronic number.(Meaning:- A number is said to be pronic if it is a product of 2 consecutive numbers.)
+                        Ex:- 1) 6 = 2 X 3
+                             2) 20 = 4 X 5
      
