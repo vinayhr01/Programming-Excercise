@@ -25,11 +25,17 @@
                     3)Happy number.(Meaning:- A number is said to be happy if it yields 1 when replaced by the sum of squares of its digits repeatedly.
                                              If this process results in an endless cycle of numbers containing 4, then the number will be an unhappy number.) 
                         Ex:-
-                              Number=32
-                                    3 ^2+ 2 ^2=13
-                                    1 ^2+ 3 ^2=10
-                                    1 ^2+ 0 ^2=1
-                              Therefore, 32 is a happy number
+                             1) Number=32
+                                    3 ^2 + 2 ^2 = 13
+                                    1 ^2 + 3 ^2 = 10
+                                    1 ^2 + 0 ^2 = 1
+                                Therefore, 32 is a happy number.
+                             
+                            2) Number=82
+                                    8 ^2 + 2 ^2 = 68
+                                    6 ^2 + 8 ^2 = 100
+                                    1 ^2 + 0 ^2+ 0 ^2 = 1
+                               Therefore, 82 is a happy number.
                     
                     4)Prime factors of a number.
                     5)Pronic number.(Meaning:- A number is said to be pronic if it is a product of 2 consecutive numbers.)
