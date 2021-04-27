@@ -53,3 +53,13 @@
                      1)Reading and printing a string using dma using functions.
                      2)Reading and printing a string using dma.
                      3)Splitting a string at blank spaces.
+# DAY-6
+      Programs list:-
+                     1)Reversing a string.
+                     2)To check if two given strings are anagram of each other.
+                       An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, 
+typically using all the original letters exactly once. 
+Example
+Race =care
+Eleven plus two = Twelve plus one
+                       
