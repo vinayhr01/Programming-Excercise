@@ -42,4 +42,14 @@
                                                2 consecutive numbers.)
                         Ex:- 1) 6 = 2 X 3
                              2) 20 = 4 X 5
-     
+# DAY-4
+      Programs list:-
+                     1)Finding 1st and last occurrence of an element in array.
+                     2)Printing largest element in the array.
+                     3)Reading and printing array and even numbers.
+                     4)Reading and printing array and odd numbers using functions.
+# DAY-5
+      Programs list:- (dma---> Dynamic Memory Allocation functions)
+                     1)Reading and printing a string using dma using functions.
+                     2)Reading and printing a string using dma.
+                     3)Splitting a string at blank spaces.
