@@ -61,3 +61,9 @@
                                              word or phrase, typically using all the original letters exactly once. 
                                              Ex:- 1)Race = care.
                                                   2)Eleven plus two = Twelve plus one.)                                        
+# DAY-7
+      Programs list:-
+                    1)Finding ASCII value of characters.
+                    2)Count of repeated characters in a string.
+                    3)Number of words in a string.
+                    4)Number game.(For more information see the 4th program file in DAY-7 folder)
