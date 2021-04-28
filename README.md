@@ -60,9 +60,10 @@
                        (Anagram definition:- An anagram is a word or phrase formed by 
                                              rearranging the letters of a different
                                              word or phrase, typically using all the 
-                                             original letters exactly once. 
-                                             Ex:- 1)Race = care.
-                                                  2)Eleven plus two = Twelve plus one.)                                        
+                                             original letters exactly once.) 
+                        Ex:- 1)Race = care.
+                        
+                             2)Eleven plus two = Twelve plus one.                                        
 # DAY-7
       Programs list:-
                     1)Finding ASCII value of characters.
