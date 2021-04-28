@@ -6,7 +6,7 @@
                     2) Digits of a number from left to right.
                     3) Digits of a number from right to left.
                     4) Even and odd digits in a number.
-                    5) To print prime digits in a number
+                    5) To print 'n' prime numbers.
 # DAY-2
      Programs list:- (Different techniques to add 2 numbers)
                     1) Using Dynamic memory management functions and functions concept.
