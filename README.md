@@ -66,7 +66,7 @@
                       2)Reversing a string.  
 # DAY-7
       Programs list:-
-                     1)Finding ASCII value of characters.
-                     2)Count of repeated characters in a string.
-                     3)Number of words in a string.
+                     3)Finding ASCII value of characters.
+                     2)Count of maximum repeated characters in a string.
+                     1)Number of words in a string.
                      4)Number game.(For more information see the 4th program file in DAY-7 folder)
