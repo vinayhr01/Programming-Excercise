@@ -55,18 +55,18 @@
                      3)Splitting a string at blank spaces.
 # DAY-6
       Programs list:-
-                     1)Reversing a string.
-                     2)To check if two given strings are anagram of each other.
+                     1)To check if two given strings are anagram of each other.
                        (Anagram definition:- An anagram is a word or phrase formed by 
                                              rearranging the letters of a different
                                              word or phrase, typically using all the 
                                              original letters exactly once.) 
                         Ex:- 1)Race = care.
                         
-                             2)Eleven plus two = Twelve plus one.                                        
+                             2)Eleven plus two = Twelve plus one.   
+                      2)Reversing a string.  
 # DAY-7
       Programs list:-
-                    1)Finding ASCII value of characters.
-                    2)Count of repeated characters in a string.
-                    3)Number of words in a string.
-                    4)Number game.(For more information see the 4th program file in DAY-7 folder)
+                     1)Finding ASCII value of characters.
+                     2)Count of repeated characters in a string.
+                     3)Number of words in a string.
+                     4)Number game.(For more information see the 4th program file in DAY-7 folder)
