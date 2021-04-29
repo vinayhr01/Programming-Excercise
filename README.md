@@ -70,3 +70,7 @@
                      2)Count of maximum repeated characters in a string.
                      3)Finding ASCII value of characters.
                      4)Number game.(For more information see the 4th program file in DAY-7 folder)
+# DAY-8
+      Programs list:-
+                     1)Creating a database of the books and updating price of book.
+                     2)Reading a structure.
