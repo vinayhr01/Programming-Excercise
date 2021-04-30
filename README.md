@@ -74,3 +74,10 @@
       Programs list:-
                      1)Creating a database of the books and updating price of book.
                      2)Reading a structure.
+# DAY-9
+      Programs list:-
+                     1)Book database static stack operations.
+                     2)Dynamic stack operations.
+                     3)Linear or ordinary queue.
+                     4)Splitting an array at the largest number.
+                     5)Static stack operations
